@@ -139,7 +139,7 @@ app.post('/admin/dashboard', (req, res) => {
                 <tr>
                     <th>ID</th>
                     <th>Nome</th>
-                    <th>WhatsApp</th>
+   ls -a                 <th>WhatsApp</th>
                     <th>Palpite</th>
                     <th>Valor</th>
                     <th>Status</th>
